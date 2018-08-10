@@ -1,6 +1,4 @@
 language: csharp
 solution: Week2TaskC/Week2TaskC.sln
-install:
-  - sudo apt-get install -y gtk-sharp2
-  - nuget restore Week2TaskC
+
   
